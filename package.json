@@ -1,0 +1,31 @@
+{
+  "name": "dat-icons",
+  "version": "1.0.0",
+  "description": "Icons and other SVGs for dat-data.com",
+  "homepage": "http://datproject.github.io/design/",
+  "author": "Kristina Schneider",
+  "main": "index.js",
+  "scripts": {
+    "build-icons": "svgo -f icons && spritesh --input icons --output sprite.svg --viewbox '0 0 240 240' --prefix daticon-"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kriesse/dat-icons.git"
+  },
+  "devDependencies": {
+    "spritesh": "^1.2.0",
+    "svgo": "^0.7.0"
+  },
+  "keywords": [
+    "svg",
+    "design",
+    "dat",
+    "datproject"
+  ],
+  "author": "Kristina Schneider (http://kristinaschneider.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kriesse/dat-icons/issues"
+  },
+  "homepage": "https://github.com/Kriesse/dat-icons#readme"
+}
