@@ -8,6 +8,9 @@
   "scripts": {
     "build-icons": "svgo -f icons && spritesh --input icons --output sprite.svg --viewbox '0 0 240 240' --prefix daticon-"
   },
+  "browserify": {
+    "transforms": ["brfs"]
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Kriesse/dat-icons.git"
@@ -25,5 +28,8 @@
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Kriesse/dat-icons/issues"
+  },
+  "dependencies": {
+    "brfs": "^1.4.3"
   }
 }
