@@ -5,7 +5,7 @@ Icons and other SVGs for the [dat project](http://dat-data.com)
 
 ```js
 const svgSprite = require('dat-icons')
-document.body.innerHTML += svgSprite
+document.body.innerHTML += svgSprite()
 ```
 
 Make sure this is the first element after the `<body>` opening tag
