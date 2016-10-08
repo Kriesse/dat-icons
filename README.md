@@ -1,4 +1,7 @@
 # dat-icons
+
+[![NPM version][npm-image]][npm-url]
+
 SVG icons for [dat project](http://dat-data.com) and related projects.
 
 ## Usage
@@ -48,3 +51,7 @@ to build SVG sprite:
 npm install
 npm run build-icons
 ```
+
+
+[npm-image]: https://img.shields.io/npm/v/dat-icons.svg?style=flat-square
+[npm-url]: https://npmjs.org/package/dat-icons
