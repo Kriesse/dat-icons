@@ -1,4 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="display:none"><symbol  viewBox='0 0 240 240' id='daticon-clipboard'>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="display:none"><symbol  viewBox='0 0 240 240' id='daticon-check'>
+    <title>check</title><path d="M100.26 174.43a12 12 0 0 1-7.9-3l-2.25-2q-.3-.26-.58-.54L46.4 125.81a12 12 0 1 1 17-17l36.76 36.76 76.51-76.51a12 12 0 1 1 17 17l-84.85 84.85a12 12 0 0 1-8.56 3.52z"></path>
+  </symbol><symbol  viewBox='0 0 240 240' id='daticon-clipboard'>
     <title>clipboard</title><path d="M142.48 64c4.42 0 7.52-3.58 7.52-8s-3.1-8-7.52-8h-56a8 8 0 1 0 0 16z"></path><path d="M214 130.9l-17-9.9V34a18.06 18.06 0 0 0-18-18H50a18 18 0 0 0-18 18v152a18 18 0 0 0 18 18h49.12a8 8 0 0 0 1.88 1.52l52.5 30.39a8 8 0 0 0 8 0l52.5-30.39a8 8 0 0 0 4-6.92v-60.78a8 8 0 0 0-4-6.92zM48 186V34a2 2 0 0 1 2-2h129a2.06 2.06 0 0 1 2 2v77.77l-19.47-11.26a8 8 0 0 0-8 0L101 130.9a8 8 0 0 0-4 6.92V188H50a2 2 0 0 1-2-2z"></path>
   </symbol><symbol  viewBox='0 0 240 240' id='daticon-create-new-dat'>
     <title>create-new-dat</title><path d="M214.37 148a9.79 9.79 0 0 0-10 9.74v11L120 217.41l-84.36-48.65.06-97.35 84.4-48.74 9.63 5.55a10 10 0 0 0 10-17.33l-14.65-8.44a10 10 0 0 0-10 0L20.7 57a10 10 0 0 0-5 8.65l-.06 108.89a10 10 0 0 0 5 8.67L115 237.55a10 10 0 0 0 10 0L219.36 183a10 10 0 0 0 5-8.65v-16.59a9.79 9.79 0 0 0-9.99-9.76z"></path><path d="M223.63 63H198V37.11a16 16 0 0 0-32 0V63h-26.37a16 16 0 0 0 0 32H166v26.11a16 16 0 1 0 32 0V95h25.63a16 16 0 0 0 0-32z"></path>
@@ -29,7 +31,7 @@
   </symbol><symbol  viewBox='0 0 240 240' id='daticon-menu'>
     <title>menu</title><path d="M60 82h120a12 12 0 0 0 0-24H60a12 12 0 0 0 0 24zm120 26H60a12 12 0 0 0 0 24h120a12 12 0 0 0 0-24zm0 50H60a12 12 0 0 0 0 24h120a12 12 0 0 0 0-24z"></path>
   </symbol><symbol  viewBox='0 0 240 240' id='daticon-network'>
-    <title>network</title><path d="M120 1.88L67.64 31.94v60.12L120 122.13l52.36-30.07V31.94L120 1.88zM187.64 117.88l-52.36 30.06v60.12l52.36 30.07L240 208.06v-60.12l-52.36-30.06zM52.36 117.88L0 147.94v60.12l52.36 30.07 52.36-30.07v-60.12l-52.36-30.06z"></path>
+    <title>network</title><path d="M120 1.88L67.64 31.94v60.12L120 122.13l52.36-30.07V31.94L120 1.88zm67.64 116l-52.36 30.06v60.12l52.36 30.07L240 208.06v-60.12l-52.36-30.06zm-135.28 0L0 147.94v60.12l52.36 30.07 52.36-30.07v-60.12l-52.36-30.06z"></path>
   </symbol><symbol  viewBox='0 0 240 240' id='daticon-open-in-desktop'>
     <title>open-in-desktop</title><path d="M46 164h148a8 8 0 0 0 8-8V56a8 8 0 0 0-8-8H46a8 8 0 0 0-8 8v100a8 8 0 0 0 8 8zm8-100h132v84H54zM10 176v8a14 14 0 0 0 14 14h192a14 14 0 0 0 14-14v-8z"></path>
   </symbol><symbol  viewBox='0 0 240 240' id='daticon-open-in-finder'>
