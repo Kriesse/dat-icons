@@ -35,6 +35,7 @@ If this looks unfamiliar, read more about an SVG workflow using SVG sprites and 
 - <img width="16px" src="https://cdn.rawgit.com/kriesse/dat-icons/master/icons/import-dat.svg"> `daticon-import-dat`
 - <img width="16px" src="https://cdn.rawgit.com/kriesse/dat-icons/master/icons/link.svg"> `daticon-link`
 - <img width="16px" src="https://cdn.rawgit.com/kriesse/dat-icons/master/icons/loading.svg"> `daticon-loading`
+- <img width="16px" src="https://cdn.rawgit.com/kriesse/dat-icons/master/icons/letter.svg"> `daticon-letter`
 - <img width="16px" src="https://cdn.rawgit.com/kriesse/dat-icons/master/icons/lock.svg"> `daticon-lock`
 - <img width="16px" src="https://cdn.rawgit.com/kriesse/dat-icons/master/icons/menu.svg"> `daticon-menu`
 - <img width="16px" src="https://cdn.rawgit.com/kriesse/dat-icons/master/icons/open-in-desktop.svg"> `daticon-open-in-desktop`
