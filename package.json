@@ -21,7 +21,7 @@
   "devDependencies": {
     "budo": "^9.2.1",
     "spritesh": "^1.2.0",
-    "svgo": "^0.7.0"
+    "svgo": "^0.7.1"
   },
   "keywords": [
     "svg",
