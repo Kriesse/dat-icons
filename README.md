@@ -8,7 +8,8 @@ SVG icons for [dat project](http://dat-data.com) and related projects.
 
 ```js
 const svgSprite = require('dat-icons')
-document.body.innerHTML += svgSprite()
+var el = svgSprite()
+document.body.appendChild(el)
 ```
 
 Make sure to include this sprite in your page as the first element after the `<body>` opening tag.

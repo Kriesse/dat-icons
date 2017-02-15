@@ -34,6 +34,7 @@
     "url": "https://github.com/Kriesse/dat-icons/issues"
   },
   "dependencies": {
+    "bel": "^4.5.1",
     "brfs": "^1.4.3"
   }
 }
