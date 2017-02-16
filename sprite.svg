@@ -39,7 +39,7 @@
   </symbol><symbol  viewBox='0 0 240 240' id='daticon-menu'>
     <title>menu</title><path d="M60 82h120a12 12 0 0 0 0-24H60a12 12 0 0 0 0 24zm120 26H60a12 12 0 0 0 0 24h120a12 12 0 0 0 0-24zm0 50H60a12 12 0 0 0 0 24h120a12 12 0 0 0 0-24z"></path>
   </symbol><symbol  viewBox='0 0 240 240' id='daticon-network'>
-    <title>network</title><path d="M120 1.88L67.64 31.94v60.12L120 122.13l52.36-30.07V31.94L120 1.88zm67.64 116l-52.36 30.06v60.12l52.36 30.07L240 208.06v-60.12l-52.36-30.06zm-135.28 0L0 147.94v60.12l52.36 30.07 52.36-30.07v-60.12l-52.36-30.06z"></path>
+    <title>network</title><path d="M120 1.88L67.64 31.94v60.12L120 122.13l52.36-30.07V31.94L120 1.88zM187.64 117.88l-52.36 30.06v60.12l52.36 30.07L240 208.06v-60.12l-52.36-30.06zM52.36 117.88L0 147.94v60.12l52.36 30.07 52.36-30.07v-60.12l-52.36-30.06z"></path>
   </symbol><symbol  viewBox='0 0 240 240' id='daticon-open-in-desktop'>
     <title>open-in-desktop</title><path d="M46 164h148a8 8 0 0 0 8-8V56a8 8 0 0 0-8-8H46a8 8 0 0 0-8 8v100a8 8 0 0 0 8 8zm8-100h132v84H54zM10 176v8a14 14 0 0 0 14 14h192a14 14 0 0 0 14-14v-8z"></path>
   </symbol><symbol  viewBox='0 0 240 240' id='daticon-open-in-finder'>
