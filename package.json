@@ -6,7 +6,7 @@
   "author": "Kristina Schneider (http://kristinaschneider.com)",
   "main": "index.js",
   "scripts": {
-    "build-icons": "svgo -f icons && spritesh --input icons --output sprite.svg --viewbox '0 0 240 240' --prefix daticon-",
+    "build-icons": "svgo -f --disable=convertShapeToPath icons && spritesh --input icons --output sprite.svg --viewbox '0 0 240 240' --prefix daticon-",
     "example": "budo example.js --open --live -- -t brfs"
   },
   "browserify": {
