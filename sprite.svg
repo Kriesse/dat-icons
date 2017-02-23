@@ -43,7 +43,8 @@
   </symbol><symbol  viewBox='0 0 240 240' id='daticon-menu'>
     <title>menu</title><path d="M60 82h120a12 12 0 0 0 0-24H60a12 12 0 0 0 0 24zm120 26H60a12 12 0 0 0 0 24h120a12 12 0 0 0 0-24zm0 50H60a12 12 0 0 0 0 24h120a12 12 0 0 0 0-24z"></path>
   </symbol><symbol  viewBox='0 0 240 240' id='daticon-network'>
-    <title>network</title><g id="network"><polygon id="polygon-3" points="120 1.88 67.64 31.94 67.64 92.06 120 122.13 172.36 92.06 172.36 31.94 120 1.88"></polygon><polygon id="polygon-2" points="187.64 117.88 135.28 147.94 135.28 208.06 187.64 238.13 240 208.06 240 147.94 187.64 117.88"></polygon><polygon id="polygon-1" points="52.36 117.88 0 147.94 0 208.06 52.36 238.13 104.72 208.06 104.72 147.94 52.36 117.88"></polygon></g>
+    <title>network</title><g id="network"><polygon id="polygon-3" style="fill: var(--polygon-3-color)" points="120 1.88 67.64 31.94 67.64 92.06 120 122.13 172.36 92.06 172.36 31.94 120 1.88"></polygon><polygon id="polygon-2" style="fill: var(--polygon-2-color)" points="187.64 117.88 135.28 147.94 135.28 208.06 187.64 238.13 240 208.06 240 147.94 187.64 117.88"></polygon><polygon id="polygon-1" style="fill: var(--polygon-1-color)" points="52.36 117.88 0 147.94 0 208.06 52.36 238.13 104.72 208.06 104.72 147.94 52.36 117.88"></polygon></g>
+
   </symbol><symbol  viewBox='0 0 240 240' id='daticon-open-in-desktop'>
     <title>open-in-desktop</title><path d="M46 164h148a8 8 0 0 0 8-8V56a8 8 0 0 0-8-8H46a8 8 0 0 0-8 8v100a8 8 0 0 0 8 8zm8-100h132v84H54zM10 176v8a14 14 0 0 0 14 14h192a14 14 0 0 0 14-14v-8z"></path>
   </symbol><symbol  viewBox='0 0 240 240' id='daticon-open-in-finder'>
