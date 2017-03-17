@@ -10,7 +10,7 @@
     "example": "budo example.js --open --live -- -t brfs"
   },
   "browserify": {
-    "transforms": [
+    "transform": [
       "brfs"
     ]
   },
