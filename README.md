@@ -51,6 +51,8 @@ If this looks unfamiliar, read more about an SVG workflow using SVG sprites and 
 - <img width="16px" src="https://cdn.rawgit.com/kriesse/dat-icons/master/icons/question.svg"> `daticon-question`
 - <img width="16px" src="https://cdn.rawgit.com/kriesse/dat-icons/master/icons/sad-dat.svg"> `daticon-sad-dat`
 - <img width="16px" src="https://cdn.rawgit.com/kriesse/dat-icons/master/icons/star-dat.svg"> `daticon-star-dat`
+- <img width="16px" src="https://cdn.rawgit.com/kriesse/dat-icons/master/icons/edit.svg"> `daticon-edit`
+
 
 ## Build
 
